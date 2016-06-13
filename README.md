@@ -1,2 +1,2 @@
 # AppRecommender
-App recommander system
+A simple app recommender

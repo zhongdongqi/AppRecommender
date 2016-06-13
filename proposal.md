@@ -23,10 +23,10 @@ and MongoDB to build an app recommender.
 
 
 ## Resource
-- [Project decription](https://www.bittiger.io/microproject/3ZNJoHJcoijrYEksb)
-- [MongoDB & Python](http://api.mongodb.org/python/current/tutorial.html)
-- [MongoDB & Python](https://docs.mongodb.org/getting-started/python/)
-- [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+- [Project Decription](https://www.bittiger.io/microproject/3ZNJoHJcoijrYEksb)
+- [Getting Started with MongoDB (Python Edition)](https://docs.mongodb.org/getting-started/python/)
+- [Tutorial on PyMongo](http://api.mongodb.org/python/current/tutorial.html)
+- [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
